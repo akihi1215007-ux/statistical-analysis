@@ -1,0 +1,2 @@
+# Full helper functionality and the bundled test suite (including plotting).
+-r skills/statistical-analysis/requirements-plot.txt
